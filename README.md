@@ -85,4 +85,4 @@ const proudOfThisFunc = () => {
 
 ## Acknowledgments
 
-Thanks to Coder Coder, Brad Traversy and Kevin Powell
+Thanks to Coder Coder, Brad Traversy, Kevin Powell and [Ecem Gokdogan](www.frontendmentor.io/profile/ecemgo)
