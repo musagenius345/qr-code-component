@@ -38,7 +38,7 @@ img {
   display: block;
   width: 100%;
   
-  border-radius: 30px;
+  border-radius: 15px;
 }
 
 p {
@@ -50,14 +50,13 @@ p {
 
 
 
-.inner__container {
-  max-width: 320px;
+.container {
+  max-width: 320px; /* size of card but also responsive*/
   padding: 1rem;
   border-radius: 30px;
-
+  margin-block: 1.3rem;
   background-color: var(--clr-white);
   
-  margin-bottom: 1rem;
 
 }
 
